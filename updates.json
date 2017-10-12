@@ -50,6 +50,16 @@
       "bytes": "GB",
       "tarName": "anaconda_with_spark.tar.gz",
       "tarSize": "3084993348"
+    },
+    "Anaconda + Spark (Python 2.7, Scala, R)": {
+      "size": "9.52",
+      "date": "05-12-2017, 10:00:00 AM",
+      "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
+      "name": "anaconda_with_spark",
+      "version": "v3",
+      "bytes": "GB",
+      "tarName": "anaconda_with_spark.tar.gz",
+      "tarSize": "3084993348"
     }
   },
   "servers": {
